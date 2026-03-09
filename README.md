@@ -51,20 +51,11 @@ Interactive filters allow users to:
 * Analyze **miles traveled per month**
 * Explore **trip routes between locations**
 
-## Screenshot
-
-![Dashboard Preview](images/dashboard_preview.png)
 
 ## Project Files
 
-* `uber_trip_data_2016.xlsx` → Raw dataset
-* `uber_trip_dashboard.pbix` → Power BI dashboard file
+* `https://www.kaggle.com/datasets/zusmani/uberdrives 
 
-## How to Use
-
-1. Download the `.pbix` file
-2. Open it in **Power BI Desktop**
-3. Interact with filters and visualizations
 
 ## Future Improvements
 
@@ -76,3 +67,7 @@ Interactive filters allow users to:
 ## Author
 
 Data Analytics Portfolio Project
+** Shumaila Baig **
+Email: shumailabaig1@gmail.com
+LinkedIn: https://www.linkedin.com/in/shumaila-baig-1b57b0357/
+
