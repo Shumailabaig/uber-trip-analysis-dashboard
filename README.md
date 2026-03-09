@@ -22,7 +22,7 @@ clean data with respect of data type,data format and missing values.
 
 ## Dashboard
 
-
+"C:\Users\gudo1\OneDrive\Pictures\Screenshots\Screenshot 2026-03-09 123518.png"
 
 # Key Dashboard Metrics
 
