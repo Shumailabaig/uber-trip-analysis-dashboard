@@ -21,8 +21,8 @@ verify data for any missing values
 clean data with respect of data type,data format and missing values.
 
 ## Dashboard
+<img width="2880" height="1734" alt="Screenshot 2026-03-09 121239" src="https://github.com/user-attachments/assets/1e8601c6-d00e-41e3-851a-132129473ad2" />
 
-"C:\Users\gudo1\OneDrive\Pictures\Screenshots\Screenshot 2026-03-09 123518.png"
 
 # Key Dashboard Metrics
 
